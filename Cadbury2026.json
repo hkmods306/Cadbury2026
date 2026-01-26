@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "title": "🔐 ID Login",
-  "description": "Only Login Button पर Click करे ।",
+  "description": "APP REGISTER KARVAYE ,Only Login Button पर Click करे ।",
   "button": "LOGIN",
   "toast": "✅ ID Successfully Logged In!",
   "renewUrl": "https://t.me/hitesh125sf",
