@@ -16,6 +16,12 @@
       "device_id": "840da10911a60f45",
       "username": "Username",
       "password": "password",
+      "expire_date": "2026-05-24"
+    },
+    {
+      "device_id": "840da10911a60f45",
+      "username": "Username",
+      "password": "password",
       "expire_date": "2026-04-23"
     },
     {
